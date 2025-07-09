@@ -27,7 +27,7 @@ function Header() {
                     newOpacity = 1;
                 }
 
-                navRef.current.style.backgroundColor = `rgba(45, 45, 45, ${newOpacity})`;
+                navRef.current.style.backgroundColor = `rgba(0, 0, 0, ${newOpacity})`;
             }
         };
 

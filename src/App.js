@@ -7,7 +7,7 @@ import Skill from './Pages/Skills';
 
 function App() {
   return (
-    <div >
+    <>
     <Header/>
       <Routes>
 
@@ -16,7 +16,7 @@ function App() {
         <Route path="/skills" element={<Skill />}  />
 
       </Routes>
-    </div>
+    </>
   );
 }
 
