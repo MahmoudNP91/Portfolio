@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.11a4f606.css",
-    "main.js": "/static/js/main.ea219baa.js",
-    "static/js/453.6a54098e.chunk.js": "/static/js/453.6a54098e.chunk.js",
-    "static/media/pexels-aadil-5417957.jpg": "/static/media/pexels-aadil-5417957.31b5734614b939d2c4de.jpg",
-    "index.html": "/index.html",
-    "main.11a4f606.css.map": "/static/css/main.11a4f606.css.map",
-    "main.ea219baa.js.map": "/static/js/main.ea219baa.js.map",
-    "453.6a54098e.chunk.js.map": "/static/js/453.6a54098e.chunk.js.map"
+    "main.css": "https://MahmoudNP91.github.io/Portfolio/static/css/main.29e7ce16.css",
+    "main.js": "https://MahmoudNP91.github.io/Portfolio/static/js/main.3702633e.js",
+    "static/js/453.6a54098e.chunk.js": "https://MahmoudNP91.github.io/Portfolio/static/js/453.6a54098e.chunk.js",
+    "static/media/pexels-aadil-5417957.jpg": "https://MahmoudNP91.github.io/Portfolio/static/media/pexels-aadil-5417957.31b5734614b939d2c4de.jpg",
+    "index.html": "https://MahmoudNP91.github.io/Portfolio/index.html",
+    "main.29e7ce16.css.map": "https://MahmoudNP91.github.io/Portfolio/static/css/main.29e7ce16.css.map",
+    "main.3702633e.js.map": "https://MahmoudNP91.github.io/Portfolio/static/js/main.3702633e.js.map",
+    "453.6a54098e.chunk.js.map": "https://MahmoudNP91.github.io/Portfolio/static/js/453.6a54098e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11a4f606.css",
-    "static/js/main.ea219baa.js"
+    "static/css/main.29e7ce16.css",
+    "static/js/main.3702633e.js"
   ]
 }
